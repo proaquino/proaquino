@@ -1,4 +1,4 @@
-# Olá, eu sou o Gilmar (Tico Aquino) 👋
+# Olá, eu sou o Prof. Gilmar Aquino (Tico)👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/Professor-F05032?style=for-the-badge&logo=gitbook&logoColor=white" />
