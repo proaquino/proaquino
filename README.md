@@ -2,12 +2,12 @@
   <img src="banner.png" alt="Banner Prof. Gilmar Aquino" width="100%">
 </p>
 
-# Olá, eu sou o Prof. Gilmar Aquino (Tico) 👋
+# Olá, eu sou o Prof. Gilmar Aquino (Tico)👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/Professor-F05032?style=for-the-badge&logo=gitbook&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coordenador%20Técnico-007ACC?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT%20Enthusiast-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coordenador Técnico-007ACC?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT_Enthusiast-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 ---
@@ -15,10 +15,10 @@
 ### 🎓 Sobre Mim
 Sou **Professor de Ensino Superior** e **Coordenador de Cursos** na área de tecnologia, atuando na formação de novos desenvolvedores, analistas e cientistas. Minha missão é unir a excelência acadêmica com a prática tecnológica do mercado.
 
-- 🏫 **Fatec Praia Grande:** Coordenador dos cursos de Desenvolvimento de Software Multiplataforma e ADS.
+- 🏫 **Fatec Praia Grande:** Coordenador dos cursos de Desenvolvimento de Software Multiplataforma.
 - 🏛️ **Unilus & Unimes:** Professor nos cursos de Análise e Desenvolvimento de Sistemas.
-- 🚀 **Projeto Atual:** Desenvolvendo o **EcoEdu Indicador 1.6**, focado em gestão, documentação de visitas técnicas e conformidade acadêmica (MEC).
-- 🛠️ **Interesses:** Internet das Coisas (IoT), Desenvolvimento Acadêmico, IA e Arquitetura de Software.
+- 🚀 **Projeto Atual:** Desenvolvendo o **EcoEdu**, focado em gestão e conformidade acadêmica (MEC).
+- 🛠️ **Interesses:** Internet das Coisas (IoT), Desenvolvimento Acadêmico e Arquitetura de Software.
 
 ---
 
@@ -32,14 +32,5 @@ Sou **Professor de Ensino Superior** e **Coordenador de Cursos** na área de tec
 
 ---
 
-### 📊 Estatísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=radical" />
-</p>
-
----
-
 ### 📫 Vamos nos conectar?
-- **LinkedIn:** [in/gilmar--aquino](https://www.linkedin.com/in/gilmar--aquino/)
-- **Instagram Institucional:** [@tads.unilus](https://www.instagram.com/tads.unilus/)
+- **LinkedIn:** [https://www.linkedin.com/in/gilmar--aquino/](https://www.linkedin.com/in/gilmar--aquino/)
