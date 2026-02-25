@@ -2,8 +2,6 @@
   <img src="banner.png" alt="Banner Prof. Gilmar Aquino" width="100%">
 </p>
 
-# Olá, eu sou o Prof. Gilmar Aquino (Tico)👋
-
 <p align="center">
   <img src="https://img.shields.io/badge/Professor-F05032?style=for-the-badge&logo=gitbook&logoColor=white" />
   <img src="https://img.shields.io/badge/Coordenador Técnico-007ACC?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
