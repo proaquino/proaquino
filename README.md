@@ -30,4 +30,4 @@ Sou **Professor de Ensino Superior** e **Coordenador de Cursos** na área de tec
 ---
 
 ### 📫 Vamos nos conectar?
-- **LinkedIn:** [linkedin.com/in/seu-perfil]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gilmar--aquino/))
+- **LinkedIn:** https://www.linkedin.com/in/gilmar--aquino/
